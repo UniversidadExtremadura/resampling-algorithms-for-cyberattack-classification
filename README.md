@@ -7,6 +7,10 @@ Source code available in:
 - binary_model.py - Binary model generation file with the information from the configuration file.
 - two_step_ensemble.py - Two-step ensemble model file that selects the models that perform best.
 
+Dataset available at:
+https://research.unsw.edu.au/projects/unsw-nb15-dataset
+
 Contact:
 - Media Engineering Group - University of Extremadura
 - Andres Caro - andresc@unex.es
+ 
