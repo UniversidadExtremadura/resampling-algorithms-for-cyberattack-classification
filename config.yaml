@@ -1,0 +1,11 @@
+# dataset: PATH_TO_DATASET
+resampling : True
+oversampling: ADASYN
+undersampling: RandomUnderSampler
+classifiers:
+  - DecisionTreeClassifier
+  - SVC
+  - KNeighborsClassifier
+  - MLPClassifier
+train: True
+id_legit: 4
