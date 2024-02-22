@@ -5,8 +5,7 @@ Resampling algorithms for cyberattack classification
 Source code available in:
 
 - config.yaml - Configuration file to configure algorithms and a pair of oversampling and undersampling techniques.
-- binary_model.py - Binary model generation file with the information from the configuration file.
-- two_step_ensemble.py - Two-step ensemble model file that selects the models that perform best.
+- main.py - Script to generate binary models, build ensemble model and generate results.
 
 Dataset available at:
 https://research.unsw.edu.au/projects/unsw-nb15-dataset
