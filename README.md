@@ -13,7 +13,7 @@ Dataset available at unswnb15.zip, containing:
 - raw_train.npy
   
 Dataset also available at:
-- https://zenodo.org/records/10707871
+- https://zenodo.org/records/10714999
 
 Original dataset available at:
 - https://research.unsw.edu.au/projects/unsw-nb15-dataset
